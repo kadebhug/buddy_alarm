@@ -1,0 +1,6 @@
+package com.example.buddy_alarm
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
